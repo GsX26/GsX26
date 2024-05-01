@@ -5,7 +5,7 @@ Aunque no he trabajado aún en un entorno profesional, he iniciado y completado 
 Creo en el aprendizaje continuo y en la mejora constante. <br>
 </h3>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 **Full Stack** 🌱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

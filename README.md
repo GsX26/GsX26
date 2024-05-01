@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, soy Gonzalo Suárez</h1>
-<h3>Desarrollador entusiasta con ganas de aprender y aportar en el mundo de la tecnología. Aunque todavía no tengo experiencia laboral formal, he dedicado horas a invesigar y profundizar sobre las últimas tecnologías.
+<h3>Desarrollador entusiasta con ganas de aprender y aportar en el mundo de la tecnología. Aunque todavía no tengo experiencia laboral formal, he dedicado horas a conocer las bases y profundizar sobre las últimas tecnologías.<br>
 He complementado mi educación formal con el bootcamp de 4GeeksAcademy, construyendo proyectos propios y colaborativos que puedes encontrar en mi GitHub.
 
 Aunque no he trabajado aún en un entorno profesional, he iniciado y completado varios proyectos que demuestran mi habilidad para resolver problemas y mi capacidad para aprender rápidamente. 

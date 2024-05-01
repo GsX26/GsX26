@@ -1,10 +1,9 @@
 <h1 align="center">¡Hola! 👋, soy Gonzalo Suárez</h1>
-<h3>Desarrollador entusiasta con ganas de aprender y aportar en el mundo de la tecnología. Aunque todavía no tengo experiencia laboral formal, he dedicado horas a conocer las bases y profundizar sobre las últimas tecnologías.<br>
-He complementado mi educación formal con el bootcamp de 4GeeksAcademy, construyendo proyectos propios y colaborativos que puedes encontrar en mi GitHub.
-
-Aunque no he trabajado aún en un entorno profesional, he iniciado y completado varios proyectos que demuestran mi habilidad para resolver problemas y mi capacidad para aprender rápidamente. 
-
-Creo en el aprendizaje continuo y en la mejora constante. La tecnología tiene el poder de cambiar el mundo, y aspiro a ser parte de esa transformación a través de mi trabajo y colaboración en proyectos significativos.
+<h3>Desarrollador entusiasta con ganas de aprender y aportar en el mundo de la tecnología. He dedicado horas a conocer las bases y profundizar sobre las últimas tecnologías.<br>
+He completado mi formación en el bootcamp de 4GeeksAcademy, construyendo proyectos propios y colaborativos que puedes encontrar en mi GitHub.<br>
+Aunque no he trabajado aún en un entorno profesional, he iniciado y completado varios proyectos que demuestran mi habilidad para abordar problemas y mi capacidad para aprender rápidamente.<br> 
+Creo en el aprendizaje continuo y en la mejora constante. <br>
+La tecnología tiene el poder de cambiar el mundo, y aspiro a ser parte de esa transformación a través de mi trabajo y colaboración en proyectos significativos.<br>
 
 {Conectemos}
 Si quieres saber más sobre mis proyectos, no dudes en contactarme a través de /in/gonzalosuarezf/.

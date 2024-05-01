@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">Por supuesto, aquí tienes una versión perfeccionada de tu biografía para GitHub, adaptada para alguien que aún no tiene experiencia laboral:
+<h3>
 
 ```markdown
 ¡Hola! Soy Gonzalo, un desarrollador entusiasta con ganas de aprender y aportar en el mundo de la tecnología. Aunque todavía no tengo experiencia laboral formal, he dedicado horas a invesigar y profundizar sobre las últimas tecnologías.

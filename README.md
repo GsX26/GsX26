@@ -5,7 +5,7 @@ Aunque no he trabajado aún en un entorno profesional, he iniciado y completado 
  <br>
 </h3>
 
-- 💥 **Full Stack** 💥
+- 🚧 **Full Stack** 🚧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

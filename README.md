@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">A passionate frontend developer from España</h3>
+<h3 align="center">Por supuesto, aquí tienes una versión perfeccionada de tu biografía para GitHub, adaptada para alguien que aún no tiene experiencia laboral:
+
+```markdown
+¡Hola! Soy Gonzalo, un desarrollador entusiasta con ganas de aprender y aportar en el mundo de la tecnología. Aunque todavía no tengo experiencia laboral formal, he dedicado horas a invesigar y profundizar sobre las últimas tecnologías.
+He complementado mi educación formal con el bootcamp de 4GeeksAcademy, construyendo proyectos propios y colaborativos que puedes encontrar en mi GitHub.
+
+Aunque no he trabajado aún en un entorno profesional, he iniciado y completado varios proyectos que demuestran mi habilidad para resolver problemas y mi capacidad para aprender rápidamente. 
+
+Creo en el aprendizaje continuo y en la mejora constante. La tecnología tiene el poder de cambiar el mundo, y aspiro a ser parte de esa transformación a través de mi trabajo y colaboración en proyectos significativos.
+
+{Conectemos}
+Si quieres saber más sobre mis proyectos, no dudes en contactarme a través de /in/gonzalosuarezf/.
+
+```
+</h3>
 
 - 🌱 I’m currently learning **Full Stack**
 
